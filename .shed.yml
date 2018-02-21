@@ -1,0 +1,8 @@
+categories: [Epigenetics]
+description: Background subtraction method estimates background noise from the out-of-band
+  probes and remove it for each sample separately, while the dye-bias normalization
+  utilizes a subset of the control probes to estimate the dye bias.
+homepage_url: https://github.com/kpbioteam/minfi_ppnoob
+name: minfi_ppnoob
+owner: kpbioteam
+remote_repository_url: https://github.com/kpbioteam/minfi_ppnoob

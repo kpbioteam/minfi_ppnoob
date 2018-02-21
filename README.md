@@ -1,0 +1,1 @@
+# Background subtraction method estimates background noise from the out-of-band probes and remove it for each sample separately, while the dye-bias normalization utilizes a subset of the control probes to estimate the dye bias.
